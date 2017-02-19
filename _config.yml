@@ -1,10 +1,17 @@
 # Site settings
-title: Southern Catholic Mom
-description: hello
-keywords: Modern, Blogging, Fun
-author: Becca McCaskey
+title: "Southern Catholic Mom"
+
+description: "hello description"
+
+keywords: "Modern, Blogging, Fun"
+
+author: "Becca McCaskey"
+
 baseurl: "/southerncatholicmom"
+
 url: "https://beccamccaskey.github.io" # the base hostname & protocol for your site
+
 twitter_username: becca_goldman
 
+markdown: kramdown
 
