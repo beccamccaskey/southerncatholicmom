@@ -3,5 +3,8 @@ title: Southern Catholic Mom
 description: hello
 keywords: Modern, Blogging, Fun
 author: Becca McCaskey
-baseurl: "/southerncatholicmom" # the subpath of your site, e.g. /blog/
-url: "https://beccamccaskey.github.io/southerncatholicmom" # the base hostname & protocol for your site
+baseurl: "/southerncatholicmom"
+url: "https://beccamccaskey.github.io" # the base hostname & protocol for your site
+twitter_username: becca_goldman
+
+
