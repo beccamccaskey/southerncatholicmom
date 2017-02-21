@@ -1,8 +1,12 @@
+
+---
 title:  "introduction"
 subtitle: "Description"
 author: "Becca McCaskey"
 avatar: "img/authors/wferr.png"
 image: "img/d.jpg"
-date:   2017-02-21 9:55
+date:   2017-02-21 10:25
+---
+
 
 sdfljsdlfkjaorijvldmertpjsvmpwoj
