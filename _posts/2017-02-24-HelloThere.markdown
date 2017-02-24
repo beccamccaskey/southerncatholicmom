@@ -3,7 +3,7 @@ layout: post
 title:  "Hello, There!"
 date:   2017-02-24 14:34:25
 categories: jekyll update
-tags: featured
+tags: regular
 image: /assets/images/becalex.jpg
 ---
 
