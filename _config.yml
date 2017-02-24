@@ -14,7 +14,7 @@ logo: "/assets/images/df_logo.jpg"
 float_logo: false # true, false (default)
 
 # blog cover
-cover: "familypic.jpg"
+cover: "/assets/images/familypic.jpg"
 
 name: 'Becca McCaskey'
 author: 'Becca McCaskey'
