@@ -4,14 +4,6 @@ title: About
 permalink: /about/
 ---
 
-A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme 
-[Readium 2.0](http://www.svenread.com/readium-ghost-theme/). I use mediator on my own blog [The Base](blog.base68.com).
+I'm Becca. I am a pediatric occupational therapist and have a huge passion for helping kiddos. I married my sweet husband in January 2016, and had my sweet baby John 10 months later. I've had a whirlwind of a year, but am loving every minute. Currently, my passion for kids is focused on raising my baby. Hoping to share some of my experiences and adventures with other mammas and women out there! 
 
-You can **download** the theme here:
-[https://github.com/dirkfabisch/mediator](https://github.com/dirkfabisch/mediator) 
-
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Cheers!
