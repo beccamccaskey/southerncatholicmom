@@ -36,11 +36,15 @@ twitter_handle: '@becca_goldman'
 social:
   - icon:	twitter
     url:	https://twitter.com/becca_goldman
-    desc: Follow me on twitter!
+    desc: Follow me on twitter
     share_url: http://twitter.com/share
     share_title: ?text=
     share_link: "&amp;url="
 
+  - icon: instagram
+    url: https://instagram.com/beccalane22
+    desc: Follow me on Instagram
+    
 #  - icon:	facebook
 #    url:	https://facebook.com/???
 #    desc: Connect with me facebook
