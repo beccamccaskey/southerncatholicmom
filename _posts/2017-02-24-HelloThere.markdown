@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  _**"Hello, There!"**_
+title:  "Hello, There!"
 date:   2017-02-24 14:34:25
 categories: jekyll update
 tags: regular
