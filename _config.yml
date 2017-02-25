@@ -66,3 +66,9 @@ social:
 #    share_url:
 #    share_title:
 #    share_link:
+
+jekyll-archives:
+  enabled: 
+    - year
+    - month
+  layout: archive
