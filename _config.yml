@@ -2,6 +2,7 @@
 gems:
   - jemoji
   - jekyll-paginate
+  - jekyll-archives
 
 # Site settings
 title: "Southern Catholic Mom"
